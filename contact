@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title>
+       contact page
+    </title>
+    <meta name="description" content="hello world in Git" />
+</head>
+<body>
+<h1>Hello World!</h1>
+<ul>
+    <li><a href="about.html">About me</a></li>
+</ul>
+<p>my email : 305816643@qq.com</p>
+<p>my address: beijing and china</p>
+</body>
+</html>
